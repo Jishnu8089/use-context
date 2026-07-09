@@ -5,7 +5,7 @@ const Child =() => {
   const {user}=useContext(UserContext)
   return (
     <div>
-      <h1>Child components</h1><hr />
+      <h1>Child componentsssss</h1><hr />
       {/* <p>user : {user}</p> */}
     </div>
   );
